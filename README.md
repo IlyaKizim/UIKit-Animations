@@ -17,7 +17,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
 <div>
   <h2>Slider</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/8e799a8b-5346-485f-a242-3df50d48503f" controls></video>
-  <p>Код доступен в [этом репозитории](https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/Slider).</p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/Slider" target="_blank">Читай комментарии к коду</a></p>
 </div>
 
 <div>
