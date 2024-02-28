@@ -2,16 +2,16 @@
 
 
 ## Slider
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/e41d2f23-3a7a-4d9e-8719-15368d581ba2
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/8e799a8b-5346-485f-a242-3df50d48503f
 ## Gravity
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/f1fa633a-c6bf-48b2-a1b9-aad1ea00730a
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/87522193-8b7c-46e3-9f5a-3cf60006ac52
 ## TableView
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/f570860b-3bf0-4218-b68d-b1e0ade2e1db
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/0d67e73b-125f-4de0-b6df-457cd7f3d921
 ## Thunder+Rain
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/f3da9140-8343-47c9-8342-750ee591b0e7
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/c0b8a88c-3583-4688-9aa9-e7426c49d38e
 ## DrawHearts
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/7b24f204-6cdc-4f3a-99ef-22682f76ae54
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/32a75ac0-80d6-40ee-94d1-cc1e9647979d
 ## GradientButton
-https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/7a3a46e5-d8fa-4187-be7d-7e8321eed53f
+https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/52c76f2d-5ab3-4080-93c0-1e33582dbc07
 
 
