@@ -24,7 +24,12 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
 <div>
   <h2>Gravity</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/87522193-8b7c-46e3-9f5a-3cf60006ac52" controls></video>
-  <p></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GravityXcode" target="_blank">Read code comments</a></p>
+  <pre><code>
+    private var animator: UIDynamicAnimator?
+    private var timer: Timer?
+    private var behavior: UICollisionBehavior?
+  </code></pre>
 </div>
 
 <div>
