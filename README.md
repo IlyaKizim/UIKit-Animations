@@ -1,11 +1,11 @@
 # UIKit-Animations
 
 
-# UIKit-Animations
+# Slider
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/a1b18336-d541-41d1-8de4-9882975dabee
-# UIKit-Animations
+# Gravity
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/684d5907-1f94-4931-85ae-d2fa3d5918e2
-# UIKit-Animations
+# TableView
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/e79d3ed7-120f-4075-a6ce-31b7c2522f19
 # UIKit-Animations
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/65678500-2f62-49a9-a483-208ecd48a482
