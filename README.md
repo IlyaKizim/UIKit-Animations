@@ -92,4 +92,8 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
   <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GradientButton" target="_blank">View the codes</a></p>
 </div>
 
+<div>
+  <h2>Thank You for Watching!</h2>
+</div>
+
 
