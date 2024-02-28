@@ -1,4 +1,5 @@
 # UIKit-Animations
+🌟 UIKit Animations: Elevate Your App's Charm with Mesmerizing Visuals! 🚀
 
 <div>
   <h2>Slider</h2>
