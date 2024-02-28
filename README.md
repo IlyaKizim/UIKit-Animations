@@ -17,7 +17,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
 <div>
   <h2>Slider</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/8e799a8b-5346-485f-a242-3df50d48503f" controls></video>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/Slider" target="_blank">Read code comments</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/Slider" target="_blank">View the code</a></p>
 </div>
 
 <div>
@@ -28,7 +28,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
     private var behavior: UICollisionBehavior?
   </code></pre>
   <p>Use <code>UIDynamicAnimator</code> and <code>UICollisionBehavior</code> for dynamic animations and collision handling.</p>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GravityXcode" target="_blank">Read code comments</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GravityXcode" target="_blank">View the code</a></p>
 </div>
 
 <div>
@@ -39,7 +39,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
     let emitterLayer = CAEmitterLayer()
     let cell = CAEmitterCell()
   </code></pre>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/TableView" target="_blank">Read code comments</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/TableView" target="_blank">View the code</a></p>
 </div>
 
 
@@ -65,7 +65,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
     rainCell.scaleRange = 0.05
     rainCell.contents = UIImage(named: Constant.particles)?.cgImage
   </code></pre>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/RainAndThunder" target="_blank">Read the code</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/RainAndThunder" target="_blank">View the code</a></p>
 </div>
 
 
@@ -77,7 +77,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
   let path = UIBezierPath()
   let drawAnimation = CABasicAnimation(keyPath: "strokeEnd")
   </code></pre>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/DrawHearts" target="_blank">Read the code</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/DrawHearts" target="_blank">View the code</a></p>
 </div>
 
 
@@ -89,7 +89,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
     let colorAnimation = CAKeyframeAnimation(keyPath: "shadowColor")
     let gradientAnimation = CABasicAnimation(keyPath: "colors")
   </code></pre>
-  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GradientButton" target="_blank">Read code comments</a></p>
+  <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GradientButton" target="_blank">View the codes</a></p>
 </div>
 
 
