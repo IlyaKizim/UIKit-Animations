@@ -72,9 +72,9 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
 <div>
   <h2>DrawHearts</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/32a75ac0-80d6-40ee-94d1-cc1e9647979d" controls></video>
-  <p>Use <code>UIBezierPath</code> and <code>CABasicAnimation</code> to draw and </p>
+  <p>Use <code>UIBezierPath</code> and <code>CABasicAnimation</code> to draw and animate it</p>
   <pre><code>
-   let path = UIBezierPath()
+  let path = UIBezierPath()
   let drawAnimation = CABasicAnimation(keyPath: "strokeEnd")
   </code></pre>
   <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/DrawHearts" target="_blank">Read the code</a></p>
@@ -84,7 +84,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
 <div>
   <h2>GradientButton</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/52c76f2d-5ab3-4080-93c0-1e33582dbc07" controls></video>
-  <p>Use <code>CAKeyframeAnimation</code> and <code>CABasicAnimation</code> to draw and </p>
+  <p>Use <code>CAKeyframeAnimation</code> and <code>CABasicAnimation</code> to animate shadow and changing color </p>
   <pre><code>
     let colorAnimation = CAKeyframeAnimation(keyPath: "shadowColor")
     let gradientAnimation = CABasicAnimation(keyPath: "colors")
