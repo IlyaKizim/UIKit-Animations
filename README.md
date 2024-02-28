@@ -28,6 +28,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
     private var animator: UIDynamicAnimator?
     private var behavior: UICollisionBehavior?
   </code></pre>
+  <p>Utilizing <code>UIDynamicAnimator</code> and <code>UICollisionBehavior</code> for dynamic animations and collision handling.</p>
   <p><a href="https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/GravityXcode" target="_blank">Read code comments</a></p>
 </div>
 
@@ -35,6 +36,7 @@ Exclusively crafted using UIKit; no additional frameworks needed. Enjoy the show
   <h2>TableView</h2>
   <video src="https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/0d67e73b-125f-4de0-b6df-457cd7f3d921" controls></video>
   <p></p>
+  https://github.com/IlyaKizim/UIKit-Animations/tree/main/UIKit-Animations/TableView
 </div>
 
 <div>
