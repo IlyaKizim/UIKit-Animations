@@ -3,6 +3,11 @@
 ## Slider
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/8e799a8b-5346-485f-a242-3df50d48503f  
 ## Gravity
+''' Swift
+private var animator: UIDynamicAnimator?
+private var timer: Timer?
+private var behavior: UICollisionBehavior?
+'''
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/87522193-8b7c-46e3-9f5a-3cf60006ac52  
 ## TableView
 https://github.com/IlyaKizim/UIKit-Animations/assets/122359658/0d67e73b-125f-4de0-b6df-457cd7f3d921  
